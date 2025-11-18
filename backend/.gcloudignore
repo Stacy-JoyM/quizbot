@@ -1,0 +1,6 @@
+cat >> .gcloudignore << 'EOF'
+logs/
+quizbot.db
+utils.py
+uploads/
+EOF
