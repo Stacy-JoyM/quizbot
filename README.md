@@ -3,6 +3,9 @@ This app has implemented the core features:
 -Guest feature
 -Chatbot History 
 
+Backend url : https://quizbot-backend-795951427566.us-central1.run.app
+Frontend url : https://quizbot-frontend-795951427566.us-central1.run.app
+
 The technologies used : Python, Fastpi, Nextjs, React, Postgresql 
 
 Running backend: uvicorn app.main:app --reload --port 8000
